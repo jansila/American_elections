@@ -7,4 +7,4 @@ The aim is to, in the future, transform the exercise (assignment in attached fil
 
 Code is writen and run in R; for the report, package stargazer by Marek Hlavac was used for LaTeX tables and subsequently reformated. 
 
-The code is not generalised to accomodate to choose different number of questions - three functions for 1,2 and 3 questions selection.However, it can run on a different, possibly extended, dataset of the same kind. 
+The code is not generalised to accomodate choosing different number of questions - there are three functions for 1,2 and 3 best questions search. However, it can run on a different, possibly extended, dataset of the same kind. 
